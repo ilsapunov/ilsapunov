@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me:
-  - **ilsaunov@gmail.com**
+  - **ilsapunov@gmail.com**
   - **[Telegram](https://t.me/IlyaSapunov)**
 
 <!--
